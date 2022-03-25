@@ -4,4 +4,4 @@ __Group 4__
 - Sverrir Þór Sigurðarson
 - Vignir Ómar Vignisson Löve
 
-See `Birds.ipynb` or view on [nbviewer.org](https://nbviewer.org/github/sveppalicious/Birds/blob/main/Birds.ipynb?flush_cache=True)
+See `Birds.ipynb` or view notebook on [nbviewer.org](https://nbviewer.org/github/sveppalicious/Birds/blob/main/Birds.ipynb?flush_cache=True)
