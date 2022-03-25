@@ -3,3 +3,5 @@ __Group 4__
 - Jón Björgvin Sigurðsson
 - Sverrir Þór Sigurðarson
 - Vignir Ómar Vignisson Löve
+
+See `Birds.ipynb`
